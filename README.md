@@ -1,16 +1,11 @@
-# title(){return this.options.title||this.options.name}
+# Password Generator
 
-## Supporting Scrimba
+## Description
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+This project is a Password Generator. It saves users time by creating random passwords for them.
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+## Summary
 
-	It would also mean the world to us if you share the courses.  
+This app is built with JavaScript, HTML, and CSS.
 
-Happy Coding!
+The passwords are created by using JavaScript by stringing together a series of random characters. Users can then copy the passwords for their use.

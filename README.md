@@ -11,4 +11,4 @@ This project is a Password Generator. It saves users time by creating random pas
 - JavaScript
 - HTML
 - CSS
-- The passwords are created by using JavaScript by stringing together a series of random characters
+- The passwords are created by using JavaScript by stringing together a series of random characters.
